@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<ImagingResults flexImagingVersion="3.0" last_modified="" created="SCiLS export">
+<Result Type="PkFilter" Name="PC(38:4)+K" Color="#0080ff" Show="0" MinIntensity="0" IntensityThreshold="100" AbsIntens="0" LogScale="0" MinMass="848.55175" MaxMass="848.57175" Integrate="0" FindMass="0" RelMass="1"></Result>
+<Result Type="PkFilter" Name="PC(38:6)+K" Color="#ff8080" Show="0" MinIntensity="0" IntensityThreshold="100" AbsIntens="0" LogScale="0" MinMass="844.51790" MaxMass="844.53790" Integrate="0" FindMass="0" RelMass="1"></Result>
+<Result Type="PkFilter" Name="PC(34:2)" Color="#8000ff" Show="0" MinIntensity="0" IntensityThreshold="100" AbsIntens="0" LogScale="0" MinMass="758.56547" MaxMass="758.58547" Integrate="0" FindMass="0" RelMass="1"></Result>
+<Result Type="PkFilter" Name="PC(32:0)+Na" Color="#8000ff" Show="0" MinIntensity="0" IntensityThreshold="100" AbsIntens="0" LogScale="0" MinMass="756.54710" MaxMass="756.56710" Integrate="0" FindMass="0" RelMass="1"></Result>
+<Result Type="PkFilter" Name="PC(32:0)" Color="#ff0000" Show="0" MinIntensity="0" IntensityThreshold="100" AbsIntens="0" LogScale="0" MinMass="734.56369" MaxMass="734.58369" Integrate="0" FindMass="0" RelMass="1"></Result>
+<Result Type="PkFilter" Name="06" Color="#00ff00" Show="0" MinIntensity="0" IntensityThreshold="100" AbsIntens="0" LogScale="0" MinMass="732.54830" MaxMass="732.56830" Integrate="0" FindMass="0" RelMass="1"></Result>
+<Result Type="PkFilter" Name="PC(34:1)" Color="#00ff80" Show="0" MinIntensity="0" IntensityThreshold="100" AbsIntens="0" LogScale="0" MinMass="760.57838" MaxMass="760.59838" Integrate="0" FindMass="0" RelMass="1"></Result>
+<Result Type="PkFilter" Name="SM(d18:1/18:0)+K" Color="#8000ff" Show="0" MinIntensity="0" IntensityThreshold="100" AbsIntens="0" LogScale="0" MinMass="769.55542" MaxMass="769.57542" Integrate="0" FindMass="0" RelMass="1"></Result>
+<Result Type="PkFilter" Name="PC(32:0)+K" Color="#00ff80" Show="0" MinIntensity="0" IntensityThreshold="100" AbsIntens="0" LogScale="0" MinMass="772.51947" MaxMass="772.53947" Integrate="0" FindMass="0" RelMass="1"></Result>
+<Result Type="PkFilter" Name="PC(36:4) or PC(34:1)+Na" Color="#00ff80" Show="0" MinIntensity="0" IntensityThreshold="100" AbsIntens="0" LogScale="0" MinMass="782.56153" MaxMass="782.58153" Integrate="0" FindMass="0" RelMass="1"></Result>
+<Result Type="PkFilter" Name="PC(40:6)" Color="#00ff80" Show="0" MinIntensity="0" IntensityThreshold="100" AbsIntens="0" LogScale="0" MinMass="834.59409" MaxMass="834.61409" Integrate="0" FindMass="0" RelMass="1"></Result>
+<Result Type="PkFilter" Name="PC(40:6)+K" Color="#00ff80" Show="0" MinIntensity="0" IntensityThreshold="100" AbsIntens="0" LogScale="0" MinMass="872.54914" MaxMass="872.56914" Integrate="0" FindMass="0" RelMass="1"></Result>
+<Result Type="PkFilter" Name="PC(36:1)" Color="#00ff80" Show="0" MinIntensity="0" IntensityThreshold="100" AbsIntens="0" LogScale="0" MinMass="788.60973" MaxMass="788.62973" Integrate="0" FindMass="0" RelMass="1"></Result>
+<Result Type="PkFilter" Name="PC(18:0/OH)" Color="#ff8000" Show="0" MinIntensity="0" IntensityThreshold="100" AbsIntens="0" LogScale="0" MinMass="524.37121" MaxMass="524.39121" Integrate="0" FindMass="0" RelMass="1"></Result>
+<Result Type="PkFilter" Name="SM(d18:1/16:0)" Color="#000080" Show="0" MinIntensity="0" IntensityThreshold="100" AbsIntens="0" LogScale="0" MinMass="703.56973" MaxMass="703.58973" Integrate="0" FindMass="0" RelMass="1"></Result>
+<Result Type="PkFilter" Name="SM(d18:1/18:0)" Color="#000080" Show="0" MinIntensity="0" IntensityThreshold="100" AbsIntens="0" LogScale="0" MinMass="731.60065" MaxMass="731.62065" Integrate="0" FindMass="0" RelMass="1"></Result>
+<Result Type="PkFilter" Name="PC(36:2)" Color="#00ff00" Show="0" MinIntensity="0" IntensityThreshold="100" AbsIntens="0" LogScale="0" MinMass="786.59536" MaxMass="786.61536" Integrate="0" FindMass="0" RelMass="1"></Result>
+<Result Type="PkFilter" Name="PC(34:1)+K" Color="#ff0000" Show="0" MinIntensity="0" IntensityThreshold="100" AbsIntens="0" LogScale="0" MinMass="798.53342" MaxMass="798.55342" Integrate="0" FindMass="0" RelMass="1"></Result>
+<Result Type="PkFilter" Name="PC(36:3)+Na or PC(38:6)" Color="#0080ff" Show="0" MinIntensity="0" IntensityThreshold="100" AbsIntens="0" LogScale="0" MinMass="806.56281" MaxMass="806.58281" Integrate="0" FindMass="0" RelMass="1"></Result>
+<Result Type="PkFilter" Name="PC(38:4) or PC(36:1)+Na" Color="#0080ff" Show="0" MinIntensity="0" IntensityThreshold="100" AbsIntens="0" LogScale="0" MinMass="810.59422" MaxMass="810.61422" Integrate="0" FindMass="0" RelMass="1"></Result>
+<Result Type="PkFilter" Name="PC(36:1)+K" Color="#8000ff" Show="0" MinIntensity="0" IntensityThreshold="100" AbsIntens="0" LogScale="0" MinMass="826.56673" MaxMass="826.58673" Integrate="0" FindMass="0" RelMass="1"></Result>
+<Result Type="PkFilter" Name="PC(38:4)+Na" Color="#00ff80" Show="0" MinIntensity="0" IntensityThreshold="100" AbsIntens="0" LogScale="0" MinMass="832.57566" MaxMass="832.59566" Integrate="0" FindMass="0" RelMass="1"></Result>
+</ImagingResults>
